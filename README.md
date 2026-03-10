@@ -36,8 +36,20 @@ predictions.json
 
 ## Technologies Used
 - Python
+
+
 - PyTorch
 - OpenCV
+
+## Model Weights
+
+The trained model weights can be downloaded here:
+
+https://drive.google.com/file/d/1Tm8NBwh-oSyfpI3cAYosRGV6bzthNuif/view?usp=sharing
+
+Place the file in:
+
+models/gcp_model.pth
 - Google Colab
 
 ## Author
